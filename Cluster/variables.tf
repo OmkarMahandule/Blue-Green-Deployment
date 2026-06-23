@@ -1,6 +1,6 @@
 variable "ssh_key_name" {
   description = "The name of the SSH key pair to use for instances"
   type        = string
-  default     = "Blue_Green_dep_keypair"
+  default     = "Blue_Green_Dep_keypair"
 }
 
